@@ -1,0 +1,38 @@
+
+[
+  {
+    "time": "7pm",
+    "length": "60 min",
+    "day": "Tomorrow",
+    "style": "Breath + Sound w/ Julie",
+    "full_date": "Tuesday 1/21, 7:00 PM",
+    "full_name": "Julie Aiello",
+    "description_line1": "A MELODY AND A BEAT, A BOOMING GONG.",
+    "description_line2": "BREATHE IN. BREATHE OUT. ",
+    "description_line3": "A SWIRL OF COLOR, A BURST OF INSIGHT.",
+    "location": "66 Sanchez St",
+    "cost": "$30",
+    "description_1":
+      "For a limited time, when you book a spot, we'll hold an extra space for a friend.",
+      "description_2":
+      "Embark on a powerful bodymind journey in our signature breathwork + sound class. We breathe together to freshly curated music and meditate on the sound of resonant instruments played live. Designed for all levels to access a sensorial state of mind and deeper insight."
+},
+{
+  "time": "7pm",
+  "length": "60 min",
+  "day": "Tomorrow",
+  "style": "Breath + Sound w/ Julie",
+  "full_date": "Tuesday 1/21, 7:00 PM",
+  "full_name": "Julie Aiello",
+  "description_line1": "A MELODY AND A BEAT, A BOOMING GONG.",
+  "description_line2": "BREATHE IN. BREATHE OUT. ",
+  "description_line3": "A SWIRL OF COLOR, A BURST OF INSIGHT.",
+  "location": "66 Sanchez St",
+  "cost": "$30",
+  "description_1":
+    "For a limited time, when you book a spot, we'll hold an extra space for a friend.",
+    "description_2":
+    "Embark on a powerful bodymind journey in our signature breathwork + sound class. We breathe together to freshly curated music and meditate on the sound of resonant instruments played live. Designed for all levels to access a sensorial state of mind and deeper insight."
+}
+]
+
